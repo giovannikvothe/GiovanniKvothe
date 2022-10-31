@@ -9,7 +9,7 @@
   
 ## Back-End Skills
 
-  [![Pyhthon](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)(href="www.google.com")]() [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)]() [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+  [![Pyhthon](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](www.google.com) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)]() [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   
 ## My LinkedIn Profile
 
